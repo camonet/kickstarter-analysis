@@ -34,8 +34,9 @@ analysis by using the built in functions.
 From the analysis performed, it can be deduced that late spring (May) and early summer (June) are good months for starting projects. The failed amount of projects remained relatively consistent over the entire year. Theater_Outcomes_vs_Launchpng.png![image](https://user-images.githubusercontent.com/99444856/155930945-3daa216c-6c20-4954-bbaa-fb3fc5e30712.png)
 
 - What can you conclude about the Outcomes based on Goals?
-For the lower goal brackets, the percent of successful projects is more consistent than the results for the higher brackets. 
+For the lower goal brackets, the percent of successful projects is more consistent than the results for the higher brackets. Theater_Outcomes_vs_Launchpng.png![image](https://user-images.githubusercontent.com/99444856/155931875-e97d399a-613d-4d59-aef2-4e2ab434799a.png)
+
 - What are some limitations of this dataset?
-One limitation is that the graph doesnt accoutn for inflation across all of the years. Furthermore, regionality of the plays is lacking. Projects may fare better in different parts of the country. Also, genre of the play could impact the outcome. 
+One limitation is that the graph doesnt account for inflation across all of the years. Furthermore, regionality of the plays is lacking. Projects may fare better in different parts of the country. Also, genre of the play could impact the outcome. 
 - What are some other possible tables and/or graphs that we could create?
 One possible table and corresponding graph to create would be amount of time that the pledging period began and ended, perhaps the outcome of the project depends on the length of the pledging period. 
